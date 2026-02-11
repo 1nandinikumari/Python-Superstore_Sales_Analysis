@@ -172,5 +172,5 @@ By analyzing 51,291 rows of sales data, key trends in profitability, regional pe
 ## 👩‍💻 Author
 
 **Nandini**  
-Python | SQL | Data Analysis | Business Insights | Power BI
+Python | SQL | Data Analysis | Excel | Power BI
 
